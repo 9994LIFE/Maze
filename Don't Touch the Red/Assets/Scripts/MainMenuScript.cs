@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class MainMenuScript : MonoBehaviour
 {
-    
+    //Test push
    public void StartGame()
     {
         SceneManager.LoadScene(1);
